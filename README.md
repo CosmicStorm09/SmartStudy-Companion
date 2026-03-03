@@ -16,7 +16,7 @@ Instantly get simple explanations, summaries of your notes, and practice quizzes
 
 ## How It Works
 
-1. Launch the app with Streamlit (`streamlit run study_buddy.py`)
+1. Launch the app with Streamlit 
 2. Ask your question, or upload your PDF notes.
 3. Get answers, summaries, or quizzes within seconds.
 
